@@ -1,0 +1,26 @@
+body{
+font-family:"font-1" ;
+    background: url(./OMEN.jpg) center/cover;
+height: 100vh;
+overflow:hidden;
+}
+
+h1{
+
+    color: blue;
+    text-align: center;
+    text-transform: uppercase ;
+    text-decoration-line: underline;
+    text-decoration-color: yellow;
+    font-size: 200%;
+
+}
+
+main{
+    background-color: rgb(91, 150, 91);
+    width: 85%;
+    min-height: 400px;
+    margin: 0 auto;
+    padding: 15px;
+
+}
